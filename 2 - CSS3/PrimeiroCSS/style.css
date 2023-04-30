@@ -1,8 +1,20 @@
 #list {
     font-size: 30px;
-    color: darkmagenta
+    color: white;
+    background-color: darksalmon;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 40px;
 }
 
 p {
     color: green
+}
+
+body {
+    background-color: black;
+    background-image: url(./images/jupiter-photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
