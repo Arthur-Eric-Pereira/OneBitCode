@@ -1,0 +1,14 @@
+h1 {
+    margin: 40px auto 40px auto;
+    padding: 20px;
+    border: 4px solid;
+    width: 30%;
+    
+}
+
+p {
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-right: 80px;
+}
